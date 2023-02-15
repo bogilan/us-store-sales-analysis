@@ -16,4 +16,6 @@ us_store_sales_data_manipulation.sql
 6) Export data into separate csv files (store_data.csv, sales_data.csv, product_data.csv)
 
 # Power BI
-Show profit in time, per regions, per stores and products.
+Show profit in time, by locations, and by products.
+
+![image](https://user-images.githubusercontent.com/125219883/219043419-ef550a5f-9a05-4de3-8b78-f2aba94f1d30.png)
